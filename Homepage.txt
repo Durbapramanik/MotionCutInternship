@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <h1>Home</h1>
+    <style>
+    h1 {
+      color: black;
+      font-size: 75px;
+      text-align: center;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif font-weight: bold;
+      font-style: italic;
+      background-color: powderblue;
+      backdrop-filter: blur(5px);
+      border-radius: 5px;
+      border-color: black;
+      border-width: 10px;
+      border-style: solid;
+      padding: 5px;
+      margin: 10px;
+      width: 900px;
+      height: 110px;
+      position: relative;
+      left: 110px;
+      top: 20px;
+    }
+
+    body {
+      background-color: #D0B49F;
+      background-size: 200px;
+      background-image: url("https://4.bp.blogspot.com/-msKq_5_wrjE/WIuFCnfouSI/AAAAAAAAeoU/V29pq7qnQsIOH5SUMCqH8FKo5TMRQFVIQCLcB/s1600/wallpaper-design-background-swirl-scroll-black-png.png");
+
+    }
+
+      p {
+        color: black;
+        font-size: 23px;
+        text-align: left;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif font-weight: bold;
+        font-style: italic;
+        border-style: solid;
+        padding: 5px;
+        margin: 10px;
+        background-color: floralwhite;
+        border-radius: 5px;
+        border-color: black;
+        border-width: 5px;
+        position: relative;
+        left: 2px;
+        top: 40px;
+
+      }
+
+
+    h2 {
+  </style>
+  <p> Welcome to LUXE, where opulence meets responsibility in a harmonious blend of elegance and ethical consciousness.
+    At LUXE, we redefine the very essence of luxury by seamlessly integrating sustainability into every facet of our
+    offerings.In a world that is awakening to the importance of environmental stewardship, we stand at the forefront,
+    committed to crafting an unparalleled experience that not only captivates the senses but also respects the planet.
+    Our mission goes beyond creating exquisite products; it extends to shaping a future where indulgence and
+    sustainability coexist in perfect synergy.</p>
+
+  <p>Elegance Redefined:Step into a world where luxury is redefined through our meticulously curated selection of
+    products. From sumptuous fashion pieces to lavish home decor, each item at LUXE is a testament to uncompromising
+    quality and timeless design. We believe that sustainability should not compromise aesthetics, and our collections
+    showcase the epitome of style without sacrificing our commitment to the planet.</p>
+
+  <p>Conscious Craftsmanship:Our commitment to sustainability goes hand in hand with our dedication to craftsmanship.
+    Every product is thoughtfully designed and produced with the utmost respect for the environment. We source materials
+    responsibly, prioritize ethical labor practices, and implement eco-friendly production processes to ensure that each
+    creation leaves a positive impact on both its wearer and the world.</p>
